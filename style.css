@@ -445,7 +445,7 @@ body
 .label {
     color: #ffdfba;
     font-size: 16px;
-    position: relative; /* Permet de déplacer le label sans sortir du flux normal */
+    position: relative;
     
 }
 
